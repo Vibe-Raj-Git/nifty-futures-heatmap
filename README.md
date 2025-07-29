@@ -1,2 +1,4 @@
-# nifty-futures-heatmap
-Real-time heatmap for Nifty Futures stocks using React + Node.js
+
+# Nifty Futures Heatmap
+
+Real-time heatmap for Nifty Futures stocks using React + Tailwind + Express backend scraping NSE India.
